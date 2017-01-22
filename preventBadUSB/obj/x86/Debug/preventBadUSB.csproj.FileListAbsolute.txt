@@ -1,0 +1,5 @@
+C:\Users\Moi\Documents\Visual Studio 2010\Projects\preventBadUSB\preventBadUSB\bin\Debug\preventBadUSB.exe
+C:\Users\Moi\Documents\Visual Studio 2010\Projects\preventBadUSB\preventBadUSB\bin\Debug\preventBadUSB.pdb
+C:\Users\Moi\Documents\Visual Studio 2010\Projects\preventBadUSB\preventBadUSB\obj\x86\Debug\preventBadUSB.exe
+C:\Users\Moi\Documents\Visual Studio 2010\Projects\preventBadUSB\preventBadUSB\obj\x86\Debug\preventBadUSB.pdb
+C:\Users\Moi\Documents\Visual Studio 2010\Projects\preventBadUSB\preventBadUSB\obj\x86\Debug\preventBadUSB.csprojResolveAssemblyReference.cache
